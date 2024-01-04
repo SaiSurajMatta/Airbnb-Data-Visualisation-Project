@@ -5,6 +5,7 @@ Welcome to the Airbnb Data Visualization in Tableau project! In this project, I 
 
 <img width="1227" alt="Dashboard" src="https://github.com/SaiSurajMatta/Airbnb-Data-Visualisation-Project/assets/92928975/5c8303c5-beea-4b27-9f3b-03af5e3f150c">
 
+[See on Tableau Public](https://public.tableau.com/app/profile/sai.suraj.matta/viz/AirbnbDataVisualization_17043334219160/Dashboard1)
 
 ## Data Set
 - Dataset Link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
